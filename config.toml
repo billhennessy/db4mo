@@ -1,4 +1,6 @@
-baseURL = "https://www.dottiebailey4mo.com"
+baseURL = "https://quizzical-mclean-3f8db1.netlify.app"
+
+# www CNAME quizzical-mclean-3f8db1.netlify.app.
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT", "404"]
