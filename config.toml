@@ -11,7 +11,7 @@ defaultContentLanguage = "en"
 theme = "hugo-product-launch"
 
 # The "title" of your website
-title = "Bold Conservative Leadership"
+title = "Dottie Bailey for Missouri - Bold Conservative Leadership"
 
 # Render line-breaks in .md-files as line-breaks in HTML.
 # This is e.g. useful for rendering a multi-line address.
@@ -23,7 +23,7 @@ title = "Bold Conservative Leadership"
 [params]
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Dottie Bailey for Missouri, William Hennessy Treasurer"
+    copyright = "© Dottie Bailey for Missouri — P.O. Box 664 Eureka, MO 63025 — William Hennessy Treasurer"
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "Missouri State House of Representatives, District 110  P.O. Box 664 Eureka, MO 63025 William Hennessy, Treasurer"
@@ -41,7 +41,7 @@ title = "Bold Conservative Leadership"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Bold Conservative Leadership."
+    title = "Dottie Bailey for Missouri - Bold Conservative Leadership."
 
     # LICENSE: Hugo Product Launch by Jan Raasch is licensed
     # under Attribution 4.0 International (CC BY 4.0).
@@ -53,4 +53,4 @@ title = "Bold Conservative Leadership"
     # hidedesignbyline = true
 
     [params.meta]
-        keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+        keywords = "110th, Dotttie Bailey, Eureka, Wildwood, Pacific, conservative, courages, leadership, Missouri, House"
